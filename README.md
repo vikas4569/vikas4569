@@ -18,7 +18,7 @@
 
 | Project | Description |
 |---|---|
-| [MockTest Pro]((https://github.com/vikas4569/mock-test-platform.git)) | Full-stack online mock test platform — Flask + MongoDB backend, built with a 5-member team as project lead |
+| [MockTest Pro](https://github.com/vikas4569/mock-test-platform) | Full-stack online mock test platform — Flask + MongoDB backend, built with a 5-member team as project lead |
 | [AI Exam Notes Generator](https://github.com/vikas4569/ai-exam-notes-generator) | MERN stack app that auto-generates structured exam notes |
 | [Image Background Remover](https://github.com/vikas4569/image-background-remover) | Web tool to upload an image and remove its background automatically |
 | [Hotel Management System](https://github.com/vikas4569/hotel-management-system) | Windows-based desktop app for managing bookings, rooms & billing |
