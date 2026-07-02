@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Vikas Prajapati 👋
 
-<!--
-**vikas4569/vikas4569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Diploma student at M.P. Polytechnic, Gorakhpur (2024–2026)
+💻 Full-Stack Developer (Fresher) — building real-world web apps with Flask, MongoDB & the MERN stack
+🚀 Currently leading a 5-member team building **MockTest Pro** — an online mock test platform, as my final year project
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+**Languages:** HTML, CSS, JavaScript, Python
+**Backend:** Flask, MongoDB, MERN (basics)
+**Tools:** Git, GitHub, VS Code
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description |
+|---|---|
+| [MockTest Pro](https://github.com/vikas4569/mocktest-pro) | Full-stack online mock test platform — Flask + MongoDB backend, built with a 5-member team as project lead |
+| [AI Exam Notes Generator](https://github.com/vikas4569/ai-exam-notes-generator) | MERN stack app that auto-generates structured exam notes |
+| [Image Background Remover](https://github.com/vikas4569/image-background-remover) | Web tool to upload an image and remove its background automatically |
+| [Hotel Management System](https://github.com/vikas4569/hotel-management-system) | Windows-based desktop app for managing bookings, rooms & billing |
+
+*(Update the links above once each project repo is live)*
+
+---
+
+### 📫 Reach Me
+
+- 📧 vikasparjapati610@gmail.com
+- 📱 +91 9580457295
+- 📍 Gorakhnath, Gorakhpur, Uttar Pradesh, India
+
+---
+
+⭐️ Always learning, always building. Open to internship & fresher opportunities in web development.
